@@ -1,6 +1,6 @@
 # mezora theme - sauce for macchina cli
 
-separator=""
+separator=" "
 separator_color="blue"
 key_color="blue"
 prefer_small_ascii = true
@@ -16,7 +16,7 @@ title=" yjydist "
 visible=true
 
 [bar]
-glyph=""
+glyph=" "
 hide_delimiters=true
 visible=true
 
@@ -29,13 +29,14 @@ color="blue"
 visible=false
 
 [keys]
-host="host"
-kernel="kernel"
-distro="os"
-packages="packages"
-terminal="terminal"
-shell="shell"
-cpu="cpu"
-cpu_load="cpu_load"
-memory="memory"
-battery="battery"
+host="  host"
+distro="  os"
+kernel="  kernel"
+uptime="  uptime"
+packages="  packages"
+terminal="  terminal"
+shell="  shell"
+cpu="  cpu"
+cpu_load="  cpu_load"
+memory="  memory"
+battery="󰁹  battery"
